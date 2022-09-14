@@ -1,0 +1,130 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-18 09:41+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./templates/Users/add.php:11
+#: ./templates/Users/edit.php:11
+#: ./templates/Users/index.php:9
+#: ./templates/Users/view.php:10
+msgid "Users"
+msgstr "Utilisateur"
+
+#: ./templates/Users/add.php:12
+#: ./templates/Users/edit.php:12
+#: ./templates/Users/view.php:11
+msgid "List Users"
+msgstr "Listes des utilisateurs"
+
+#: ./templates/Users/add.php:19
+msgid "Add User"
+msgstr "Ajout d'utilisateur"
+
+#: ./templates/Users/add.php:29
+#: ./templates/Users/edit.php:29
+msgid "Submit"
+msgstr "Valider"
+
+#: ./templates/Users/edit.php:19
+msgid "Edit User"
+msgstr "Edition d'utilisateur"
+
+#: ./templates/Users/index.php:8
+msgid "New User"
+msgstr "Nouveau utilisateur"
+
+#: ./templates/Users/index.php:14
+msgid "ID"
+msgstr ""
+
+#: ./templates/Users/index.php:15
+#: ./templates/Users/view.php:19
+msgid "Personnel"
+msgstr ""
+
+#: ./templates/Users/index.php:16
+#: ./templates/Users/login.php:17
+#: ./templates/Users/view.php:27
+msgid "Email"
+msgstr ""
+
+#: ./templates/Users/index.php:17
+#: ./templates/Users/view.php:31
+msgid "Role"
+msgstr "Rôle"
+
+#: ./templates/Users/index.php:18
+msgid "created"
+msgstr "Créé"
+
+#: ./templates/Users/index.php:19
+msgid "modified"
+msgstr "Modifié"
+
+#: ./templates/Users/index.php:20
+msgid "Actions"
+msgstr ""
+
+#: ./templates/Users/index.php:33
+msgid "View"
+msgstr "Voir"
+
+#: ./templates/Users/index.php:34
+msgid "Edit"
+msgstr "Editer"
+
+#: ./templates/Users/index.php:35
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ./templates/Users/index.php:35
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Voulez-vous supprimer # {0}?"
+
+#: ./templates/Users/login.php:18
+msgid "Mot de passe"
+msgstr ""
+
+#: ./templates/Users/login.php:19
+msgid "Se connecter"
+msgstr ""
+
+#: ./templates/Users/login.php:25
+msgid "Se Retour"
+msgstr "Retour"
+
+#: ./templates/Users/profil.php:27
+msgid "Valider"
+msgstr ""
+
+#: ./templates/Users/view.php:23
+msgid "Name"
+msgstr "Nom"
+
+#: ./templates/Users/view.php:35
+msgid "Photo"
+msgstr ""
+
+#: ./templates/Users/view.php:39
+msgid "Id"
+msgstr ""
+
+#: ./templates/Users/view.php:43
+msgid "Created"
+msgstr "Créé"
+
+#: ./templates/Users/view.php:47
+msgid "Modified"
+msgstr "Modifié"
+

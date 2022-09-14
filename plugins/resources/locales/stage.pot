@@ -1,0 +1,130 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-19 15:50+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./templates/Stage/add.php:11
+#: ./templates/Stage/edit.php:11
+#: ./templates/Stage/index.php:9
+#: ./templates/Stage/view.php:10
+msgid "Stage"
+msgstr ""
+
+#: ./templates/Stage/add.php:12
+#: ./templates/Stage/edit.php:12
+#: ./templates/Stage/view.php:11
+msgid "List Stage"
+msgstr ""
+
+#: ./templates/Stage/add.php:19
+msgid "Add Stage"
+msgstr ""
+
+#: ./templates/Stage/add.php:21
+#: ./templates/Stage/edit.php:21
+#: ./templates/Stage/index.php:15
+#: ./templates/Stage/view.php:19
+msgid "Encadreur"
+msgstr ""
+
+#: ./templates/Stage/add.php:22
+#: ./templates/Stage/edit.php:22
+#: ./templates/Stage/index.php:16
+#: ./templates/Stage/view.php:23
+msgid "Thème"
+msgstr ""
+
+#: ./templates/Stage/add.php:23
+#: ./templates/Stage/edit.php:23
+#: ./templates/Stage/index.php:17
+#: ./templates/Stage/view.php:35
+msgid "Date du début"
+msgstr ""
+
+#: ./templates/Stage/add.php:24
+#: ./templates/Stage/edit.php:24
+#: ./templates/Stage/view.php:39
+msgid "Date de fin"
+msgstr ""
+
+#: ./templates/Stage/add.php:25
+#: ./templates/Stage/edit.php:25
+#: ./templates/Stage/index.php:18
+#: ./templates/Stage/view.php:43
+msgid "Términé"
+msgstr ""
+
+#: ./templates/Stage/add.php:26
+#: ./templates/Stage/edit.php:26
+#: ./templates/Stage/view.php:47
+msgid "Rapport de stage reçu"
+msgstr ""
+
+#: ./templates/Stage/add.php:27
+#: ./templates/Stage/edit.php:27
+#: ./templates/Stage/view.php:27
+msgid "Note"
+msgstr ""
+
+#: ./templates/Stage/add.php:30
+#: ./templates/Stage/edit.php:30
+msgid "Submit"
+msgstr ""
+
+#: ./templates/Stage/edit.php:19
+msgid "Edit Stage"
+msgstr ""
+
+#: ./templates/Stage/index.php:8
+msgid "New Stage"
+msgstr ""
+
+#: ./templates/Stage/index.php:14
+msgid "ID"
+msgstr ""
+
+#: ./templates/Stage/index.php:19
+msgid "Actions"
+msgstr ""
+
+#: ./templates/Stage/index.php:31
+msgid "View"
+msgstr ""
+
+#: ./templates/Stage/index.php:32
+msgid "Edit"
+msgstr ""
+
+#: ./templates/Stage/index.php:33
+msgid "Delete"
+msgstr ""
+
+#: ./templates/Stage/index.php:33
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: ./templates/Stage/view.php:31
+msgid "Id"
+msgstr ""
+
+#: ./templates/Stage/view.php:44
+#: ./templates/Stage/view.php:48
+msgid "Yes"
+msgstr ""
+
+#: ./templates/Stage/view.php:44
+#: ./templates/Stage/view.php:48
+msgid "No"
+msgstr ""
+

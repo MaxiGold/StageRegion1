@@ -1,0 +1,130 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-18 09:41+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./templates/PasserDemande/add.php:12
+#: ./templates/PasserDemande/edit.php:12
+#: ./templates/PasserDemande/index.php:9
+#: ./templates/PasserDemande/view.php:10
+msgid "Passer Demande"
+msgstr ""
+
+#: ./templates/PasserDemande/add.php:13
+#: ./templates/PasserDemande/edit.php:13
+#: ./templates/PasserDemande/view.php:11
+msgid "List Passer Demande"
+msgstr ""
+
+#: ./templates/PasserDemande/add.php:20
+msgid "Add Passer Demande"
+msgstr ""
+
+#: ./templates/PasserDemande/add.php:22
+#: ./templates/PasserDemande/edit.php:22
+#: ./templates/PasserDemande/index.php:15
+#: ./templates/PasserDemande/view.php:19
+msgid "Stagiaire"
+msgstr ""
+
+#: ./templates/PasserDemande/add.php:23
+#: ./templates/PasserDemande/edit.php:23
+#: ./templates/PasserDemande/index.php:16
+#: ./templates/PasserDemande/view.php:23
+msgid "Encadreur"
+msgstr ""
+
+#: ./templates/PasserDemande/add.php:24
+#: ./templates/PasserDemande/edit.php:24
+#: ./templates/PasserDemande/view.php:35
+msgid "CV"
+msgstr ""
+
+#: ./templates/PasserDemande/add.php:25
+#: ./templates/PasserDemande/edit.php:25
+#: ./templates/PasserDemande/view.php:39
+msgid "Lettre de motivation"
+msgstr ""
+
+#: ./templates/PasserDemande/add.php:26
+#: ./templates/PasserDemande/edit.php:26
+#: ./templates/PasserDemande/view.php:43
+msgid "Lettre de permission"
+msgstr ""
+
+#: ./templates/PasserDemande/add.php:27
+#: ./templates/PasserDemande/edit.php:27
+#: ./templates/PasserDemande/view.php:47
+msgid "Observation sur le stagiaire"
+msgstr ""
+
+#: ./templates/PasserDemande/add.php:28
+#: ./templates/PasserDemande/edit.php:28
+#: ./templates/PasserDemande/index.php:17
+#: ./templates/PasserDemande/view.php:31
+msgid "Date de récéption"
+msgstr ""
+
+#: ./templates/PasserDemande/add.php:31
+#: ./templates/PasserDemande/edit.php:31
+msgid "Submit"
+msgstr ""
+
+#: ./templates/PasserDemande/edit.php:20
+msgid "Edit Passer Demande"
+msgstr ""
+
+#: ./templates/PasserDemande/index.php:8
+msgid "New Passer Demande"
+msgstr ""
+
+#: ./templates/PasserDemande/index.php:14
+#: ./templates/PasserDemande/view.php:27
+msgid "ID"
+msgstr ""
+
+#: ./templates/PasserDemande/index.php:18
+msgid "Actions"
+msgstr ""
+
+#: ./templates/PasserDemande/index.php:29
+msgid "View"
+msgstr ""
+
+#: ./templates/PasserDemande/index.php:30
+msgid "Edit"
+msgstr ""
+
+#: ./templates/PasserDemande/index.php:31
+msgid "Delete"
+msgstr ""
+
+#: ./templates/PasserDemande/index.php:31
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: ./templates/PasserDemande/view.php:36
+#: ./templates/PasserDemande/view.php:40
+#: ./templates/PasserDemande/view.php:44
+#: ./templates/PasserDemande/view.php:48
+msgid "Yes"
+msgstr ""
+
+#: ./templates/PasserDemande/view.php:36
+#: ./templates/PasserDemande/view.php:40
+#: ./templates/PasserDemande/view.php:44
+#: ./templates/PasserDemande/view.php:48
+msgid "No"
+msgstr ""
+

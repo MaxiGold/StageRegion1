@@ -1,0 +1,64 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-19 15:50+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./templates/Users/profil.php:10
+msgid "Profil Information"
+msgstr ""
+
+#: ./templates/Users/profil.php:25
+msgid "User's Informations"
+msgstr ""
+
+#: ./templates/Users/profil.php:27
+msgid "Nom"
+msgstr ""
+
+#: ./templates/Users/profil.php:30
+msgid "Email"
+msgstr ""
+
+#: ./templates/Users/profil.php:34
+msgid "Authentication Parameters"
+msgstr ""
+
+#: ./templates/Users/profil.php:36
+msgid "Old Password"
+msgstr ""
+
+#: ./templates/Users/profil.php:39
+msgid "New Password"
+msgstr ""
+
+#: ./templates/Users/profil.php:42
+msgid "Confirm New Password"
+msgstr ""
+
+#: ./templates/Users/profil.php:46
+msgid "Other Informations"
+msgstr ""
+
+#: ./templates/Users/profil.php:48
+msgid "Personnel"
+msgstr ""
+
+#: ./templates/Users/profil.php:51
+msgid "User Right"
+msgstr ""
+
+#: ./templates/Users/profil.php:54
+msgid "Photo de profil"
+msgstr ""
+

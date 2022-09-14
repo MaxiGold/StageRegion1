@@ -1,0 +1,183 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-18 09:41+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./templates/Etudiant/add.php:12
+#: ./templates/Etudiant/index.php:9
+#: ./templates/Etudiant/view.php:10
+msgid "Etudiant"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:13
+#: ./templates/Etudiant/edit.php:13
+#: ./templates/Etudiant/view.php:11
+msgid "List Etudiant"
+msgstr "Listes des étudiants"
+
+#: ./templates/Etudiant/add.php:20
+msgid "Add Etudiant"
+msgstr "Ajout d'étudiant"
+
+#: ./templates/Etudiant/add.php:22
+#: ./templates/Etudiant/edit.php:22
+#: ./templates/Etudiant/view.php:23
+msgid "Encadreur"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:23
+#: ./templates/Etudiant/edit.php:23
+#: ./templates/Etudiant/view.php:27
+msgid "Thème"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:24
+#: ./templates/Etudiant/edit.php:24
+#: ./templates/Etudiant/index.php:15
+#: ./templates/Etudiant/view.php:31
+msgid "Nom"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:25
+#: ./templates/Etudiant/edit.php:25
+#: ./templates/Etudiant/index.php:16
+#: ./templates/Etudiant/view.php:35
+msgid "Prénom"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:26
+#: ./templates/Etudiant/edit.php:26
+#: ./templates/Etudiant/view.php:39
+msgid "Date de naissance"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:27
+#: ./templates/Etudiant/edit.php:27
+msgid "CIN"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:28
+#: ./templates/Etudiant/edit.php:28
+#: ./templates/Etudiant/view.php:47
+msgid "Téléphone"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:29
+#: ./templates/Etudiant/edit.php:29
+#: ./templates/Etudiant/index.php:17
+#: ./templates/Etudiant/view.php:51
+msgid "Email"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:30
+#: ./templates/Etudiant/edit.php:30
+#: ./templates/Etudiant/view.php:55
+msgid "Adresse"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:31
+#: ./templates/Etudiant/edit.php:31
+#: ./templates/Etudiant/index.php:18
+#: ./templates/Etudiant/view.php:59
+msgid "Sexe"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:32
+#: ./templates/Etudiant/edit.php:32
+#: ./templates/Etudiant/view.php:63
+msgid "Nationalité"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:33
+#: ./templates/Etudiant/edit.php:33
+#: ./templates/Etudiant/view.php:67
+msgid "Etablissement d'origine"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:34
+#: ./templates/Etudiant/edit.php:34
+#: ./templates/Etudiant/view.php:71
+msgid "Filières & Parcours"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:35
+#: ./templates/Etudiant/edit.php:35
+#: ./templates/Etudiant/view.php:75
+msgid "Niveau"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:36
+#: ./templates/Etudiant/edit.php:36
+#: ./templates/Etudiant/view.php:82
+msgid "Date de confirmation"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:37
+#: ./templates/Etudiant/edit.php:37
+#: ./templates/Etudiant/index.php:19
+#: ./templates/Etudiant/view.php:86
+msgid "Est Confirmé"
+msgstr ""
+
+#: ./templates/Etudiant/add.php:40
+#: ./templates/Etudiant/edit.php:40
+msgid "Submit"
+msgstr "Valider"
+
+#: ./templates/Etudiant/edit.php:12
+#: ./templates/Etudiant/index.php:20
+msgid "Actions"
+msgstr ""
+
+#: ./templates/Etudiant/edit.php:20
+msgid "Edit Etudiant"
+msgstr "Edition d'étudiant"
+
+#: ./templates/Etudiant/index.php:8
+msgid "New Etudiant"
+msgstr "Nouveau étudiant"
+
+#: ./templates/Etudiant/index.php:14
+#: ./templates/Etudiant/view.php:19
+msgid "ID"
+msgstr ""
+
+#: ./templates/Etudiant/index.php:33
+msgid "View"
+msgstr "Voir"
+
+#: ./templates/Etudiant/index.php:34
+msgid "Edit"
+msgstr "Editer"
+
+#: ./templates/Etudiant/index.php:35
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ./templates/Etudiant/index.php:35
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Voulez-vous supprimer # {0}?"
+
+#: ./templates/Etudiant/view.php:43
+msgid "Cin"
+msgstr ""
+
+#: ./templates/Etudiant/view.php:87
+msgid "Yes"
+msgstr "Oui"
+
+#: ./templates/Etudiant/view.php:87
+msgid "No"
+msgstr "Non"
+

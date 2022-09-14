@@ -1,0 +1,75 @@
+body{
+	background: url("../assets/fond.png");
+	background-size: cover;
+}
+.graphics.content, .logo{
+	color:#757b81;
+}
+
+.menu-bar ul li a{
+	color: #16324F;
+}
+.menu-bar ul li a:hover{
+	color: #FFF49A;
+	background-color : #13293D;
+	border-bottom:solid 1px #13293D;
+}
+.menu-bar ul li.menu-statistique.active a{
+	color: #FFF;
+	background-color : #13293D;
+	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+.menu-bar ul li.menu-apropos a{
+	border-bottom:solid 1px #13293D;
+}
+.menu-bar ul li.menu-ressource a{
+	color: #16324F;
+	background-image: linear-gradient(to right, white, #FFF49A);
+	border-bottom:solid 1px #16324F;
+	border-right:solid 1px #16324F;
+}
+.menu-bar ul li.menu-ressource a:hover{
+	color: #FFF49A;
+	background-image: none;
+	background-color : #13293D;
+	border-bottom:solid 1px #FFF49A;
+	border-right:solid 1px #FFF49A;
+}
+.menu-bar ul li.menu-statistique a{
+	color: #16324F;
+	background-color : #FFF49A;
+	border-bottom:solid 1px #16324F;
+	border-right:solid 1px #16324F;
+	border-left:solid 1px #16324F;
+}
+.menu-bar ul li.menu-statistique a:hover{
+	color: #FFF49A;
+	background-color : #13293D;
+	border-bottom:solid 1px #FFF49A;
+	border-right:solid 1px #FFF49A;
+	border-left:solid 1px #FFF49A;
+}
+footer ul li {
+	color: #13293D;
+}
+.chart{
+	text-align:center;
+	background-color: rgba(255, 255, 255, 0.5);
+	margin-bottom:25px;
+}
+.chart table{
+	color: #13293D;
+	font-weight:700;
+	margin-left:50px;
+}
+.chart table td{
+	color: #13293D;
+	text-align:left;
+	font-size : 10pt;
+}
+.chart table th{
+	color: #13293D;
+	text-align:right;
+	font-size : 19pt;
+	padding-right:10px;
+}

@@ -1,0 +1,80 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-19 15:50+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./templates/layout/default.php:52
+msgid "Accueil"
+msgstr ""
+
+#: ./templates/layout/default.php:55
+msgid "A Propos"
+msgstr ""
+
+#: ./templates/layout/default.php:60
+msgid "Ressources Humaines"
+msgstr ""
+
+#: ./templates/layout/default.php:63
+msgid "Statistiques"
+msgstr ""
+
+#: ./templates/layout/default.php:69
+msgid "Photo de profil"
+msgstr ""
+
+#: ./templates/layout/default.php:75
+msgid "Profil"
+msgstr ""
+
+#: ./templates/layout/default.php:76
+msgid "Deconnexion"
+msgstr ""
+
+#: ./templates/layout/default.php:86
+msgid "Utilisateur"
+msgstr ""
+
+#: ./templates/layout/default.php:87
+msgid "Départements"
+msgstr ""
+
+#: ./templates/layout/default.php:88
+msgid "Personnels"
+msgstr ""
+
+#: ./templates/layout/default.php:89
+msgid "Stagiaires"
+msgstr ""
+
+#: ./templates/layout/default.php:90
+msgid "Demandes"
+msgstr ""
+
+#: ./templates/layout/default.php:91
+msgid "Stages"
+msgstr ""
+
+#: ./templates/layout/default.php:132
+msgid "Modifier Profil"
+msgstr ""
+
+#: ./templates/layout/default.php:143
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ./templates/layout/default.php:151
+msgid "La langue utilisé est le Françcais"
+msgstr ""
+

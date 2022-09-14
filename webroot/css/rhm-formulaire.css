@@ -1,0 +1,76 @@
+.container-gestion aside h4.heading{
+	/*display: none; */
+}
+/*
+.container-gestion aside{
+	display: flex;
+	justify-content: flex-end;
+}
+*/
+.container-gestion aside a{
+	text-decoration: none;
+	color: white;
+	font-family: tahoma;
+}
+.container-gestion form fieldset{
+	margin:25px;
+}
+.container-gestion form fieldset div{
+	display: flex;
+	flex-direction: column;
+	min-height: 80px;
+}
+.container-gestion form fieldset div.checkbox {
+    min-height: 40px;
+	padding-left:35px;
+}
+.container-gestion form fieldset div.checkbox input{
+	margin-right:10px;
+}
+.container-gestion form fieldset div legend{
+	padding-left:20px;
+	padding-bottom:20px;
+	font-size: 20px;
+}
+.container-gestion form button{
+	background: black;
+	border: none;
+	color: white;
+	padding: 15px;
+	padding-right: 80px;
+	padding-left: 80px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 15px;
+	font-family: tahoma;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.container-gestion form button:hover{
+	background: black;
+	opacity: 40%;
+}
+.container-gestion .view table{
+	width:100%;
+	margin-bottom:35px;
+}
+.container-gestion .view table th{
+	text-align:right;
+	line-height:50px;
+	font-style:italic;
+}
+.container-gestion .view table td.between{
+	width:20px;
+	font-size:10px;
+	text-align:center;
+}
+.container-gestion .button.float-right, .container-gestion .side-nav-item{
+	float: right;
+}
+.container-gestion table td, .container-gestion table th{
+	color: white;
+}
+.container-gestion table th.actions, .container-gestion table td.actions{
+	width:180px;
+	text-align:center;
+}

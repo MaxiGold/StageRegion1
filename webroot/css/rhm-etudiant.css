@@ -1,0 +1,74 @@
+
+.card{
+	margin-bottom:15px;
+	border-radius: 10px 0px 20px 0px;
+	box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 4px 0 rgba(0, 0, 0, 0.19);
+	color:#000;
+	cursor:pointer;
+}
+
+.recherche.stagiaire{
+	margin:25px 0;
+}
+
+.recherche.stagiaire div select{
+	width:100%;
+	height:40px;
+	padding-left:15px;
+	background:rgba(100, 100, 100, 0.2);
+	color:#FFF;
+}
+.recherche.stagiaire div select option{
+	color:#000;
+}
+
+ .recherche.stagiaire .zone-recherche input{
+	width:100%;
+	height:70px;
+	padding-left:15px;
+	border-radius: 20px;
+	margin:15px 0 ;
+	background:rgba(200, 200, 255, 0.2);
+	color:#FFF;
+
+}
+ .recherche.stagiaire .zone-recherche input:focus{
+	background:#FFF;
+	color:#000;
+}
+ .recherche.stagiaire .zone-recherche label{
+	width:50px;
+	float:right;
+	margin-top:-65px;
+	cursor:pointer;
+}
+ .recherche.stagiaire .zone-recherche{
+	 
+}
+
+#list-stagiaire .jaune:hover, #list-stagiaire .blanc:hover{
+	background:#9befbd;
+}
+#list-stagiaire .jaune{
+	background:#FFF49A;
+}
+#list-stagiaire .blanc{
+	background:#FFF;
+}
+
+.detail.content table {
+	margin-right:50px;
+}
+.detail.content table th{
+	text-align:right;
+}
+.detail.content table td{
+	text-align:left;
+}
+.detail.content table td.between{
+	padding:0 15px;
+}
+.detail.content h3{
+	margin:25px;
+}
+

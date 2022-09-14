@@ -1,0 +1,137 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-18 09:41+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./src/Controller/DepartementController.php:57
+#: ./src/Controller/DepartementController.php:82
+msgid "The departement has been saved."
+msgstr "Tafiditra ilay sampan-draharaha"
+
+#: ./src/Controller/DepartementController.php:61
+#: ./src/Controller/DepartementController.php:86
+msgid "The departement could not be saved. Please, try again."
+msgstr "Mialatsiny fa tsy tafiditra ilay sampan-draharaha"
+
+#: ./src/Controller/DepartementController.php:104
+msgid "The departement has been deleted."
+msgstr "Voafafa ilay sampan-draharaha"
+
+#: ./src/Controller/DepartementController.php:106
+msgid "The departement could not be deleted. Please, try again."
+msgstr "Mialatsiny fa tsy voafafa ilay sampan-draharaha"
+
+#: ./src/Controller/EtudiantController.php:55
+#: ./src/Controller/EtudiantController.php:82
+msgid "The etudiant has been saved."
+msgstr "Tafiditra ilay mpianatra"
+
+#: ./src/Controller/EtudiantController.php:59
+#: ./src/Controller/EtudiantController.php:86
+msgid "The etudiant could not be saved. Please, try again."
+msgstr "Mialatsiny fa tsy tafiditra ilay mpianatra"
+
+#: ./src/Controller/EtudiantController.php:106
+msgid "The etudiant has been deleted."
+msgstr "Voafafa ilay mpianatra"
+
+#: ./src/Controller/EtudiantController.php:108
+msgid "The etudiant could not be deleted. Please, try again."
+msgstr "Mialatsiny fa tsy voafafa ilay mpianatra"
+
+#: ./src/Controller/PasserDemandeController.php:55
+#: ./src/Controller/PasserDemandeController.php:82
+msgid "The passer demande has been saved."
+msgstr "Tafiditra ilay fangatahana fihofanana"
+
+#: ./src/Controller/PasserDemandeController.php:59
+#: ./src/Controller/PasserDemandeController.php:86
+msgid "The passer demande could not be saved. Please, try again."
+msgstr "Mialatsiny fa tsy tafiditra ilay fangatahana fihofanana"
+
+#: ./src/Controller/PasserDemandeController.php:106
+msgid "The passer demande has been deleted."
+msgstr "Voafafa ilay fangatahana fihofanana"
+
+#: ./src/Controller/PasserDemandeController.php:108
+msgid "The passer demande could not be deleted. Please, try again."
+msgstr "Mialatsiny fa tsy tafiditra ilay fangatahana fihofanana"
+
+#: ./src/Controller/PersonnelController.php:55
+#: ./src/Controller/PersonnelController.php:81
+msgid "The personnel has been saved."
+msgstr "Tafiditra ilay mpiaramiasa"
+
+#: ./src/Controller/PersonnelController.php:59
+#: ./src/Controller/PersonnelController.php:85
+msgid "The personnel could not be saved. Please, try again."
+msgstr "Mialatsiny fa tsy tafiditra ilay mpiaramiasa"
+
+#: ./src/Controller/PersonnelController.php:104
+msgid "The personnel has been deleted."
+msgstr "Voafafa ilay mpiaramiasa"
+
+#: ./src/Controller/PersonnelController.php:106
+msgid "The personnel could not be deleted. Please, try again."
+msgstr "Mialatsiny fa tsy voafafa ilay mpiaramiasa"
+
+#: ./src/Controller/StageController.php:55
+#: ./src/Controller/StageController.php:81
+msgid "The stage has been saved."
+msgstr "Tafiditra ilay fihofanana"
+
+#: ./src/Controller/StageController.php:59
+#: ./src/Controller/StageController.php:85
+msgid "The stage could not be saved. Please, try again."
+msgstr "Mialatsiny fa tsy tafiditra ilay mpiaramiasa"
+
+#: ./src/Controller/StageController.php:104
+msgid "The stage has been deleted."
+msgstr "Voafafa ilay fihofanana"
+
+#: ./src/Controller/StageController.php:106
+msgid "The stage could not be deleted. Please, try again."
+msgstr "Mialatsiny fa tsy tafiditra ilay fihofanana"
+
+#: ./src/Controller/UsersController.php:54
+#: ./src/Controller/UsersController.php:80
+#: ./src/Controller/UsersController.php:165
+msgid "The user has been saved."
+msgstr "Tafiditra ilay mpikirakira"
+
+#: ./src/Controller/UsersController.php:58
+#: ./src/Controller/UsersController.php:84
+#: ./src/Controller/UsersController.php:167
+msgid "The user could not be saved. Please, try again."
+msgstr "Mialatsiny fa tsy tafiditra ilay mpikirakira"
+
+#: ./src/Controller/UsersController.php:103
+msgid "The user has been deleted."
+msgstr "Voafafa ilay mpikirakira"
+
+#: ./src/Controller/UsersController.php:105
+msgid "The user could not be deleted. Please, try again."
+msgstr "Mialatsiny fa tsy tafiditra ilay mpikirakira"
+
+#: ./src/Controller/UsersController.php:138
+msgid "Invalid email or password"
+msgstr "Tokony hovaina ny email na ny fanalahidinao"
+
+#: ./templates/layout/error.php:38
+msgid "Back"
+msgstr "Miverina"
+
+
+msgid "Annuler"
+msgstr "Cancel"

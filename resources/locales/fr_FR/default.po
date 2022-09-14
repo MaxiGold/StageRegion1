@@ -1,0 +1,136 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-18 09:41+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./src/Controller/DepartementController.php:57
+#: ./src/Controller/DepartementController.php:82
+msgid "The departement has been saved."
+msgstr "Le département a été enregistré"
+
+#: ./src/Controller/DepartementController.php:61
+#: ./src/Controller/DepartementController.php:86
+msgid "The departement could not be saved. Please, try again."
+msgstr "Le département n'a pas été enregistré. S'il vous plait, ressayez"
+
+#: ./src/Controller/DepartementController.php:104
+msgid "The departement has been deleted."
+msgstr "Le département a été supprimé"
+
+#: ./src/Controller/DepartementController.php:106
+msgid "The departement could not be deleted. Please, try again."
+msgstr "Le département n'a pas été supprimé. S'il vous plait, ressayez"
+
+#: ./src/Controller/EtudiantController.php:55
+#: ./src/Controller/EtudiantController.php:82
+msgid "The etudiant has been saved."
+msgstr "L'étudient a été enregistré"
+
+#: ./src/Controller/EtudiantController.php:59
+#: ./src/Controller/EtudiantController.php:86
+msgid "The etudiant could not be saved. Please, try again."
+msgstr "L'étudiant n'a pas été enregistré. S'il vous plait, ressayez"
+
+#: ./src/Controller/EtudiantController.php:106
+msgid "The etudiant has been deleted."
+msgstr "L'étudiant a été supprimé"
+
+#: ./src/Controller/EtudiantController.php:108
+msgid "The etudiant could not be deleted. Please, try again."
+msgstr "L'étudiant n'a pas été supprimé. S'il vous plait, ressayez"
+
+#: ./src/Controller/PasserDemandeController.php:55
+#: ./src/Controller/PasserDemandeController.php:82
+msgid "The passer demande has been saved."
+msgstr "La demande a été enregistré"
+
+#: ./src/Controller/PasserDemandeController.php:59
+#: ./src/Controller/PasserDemandeController.php:86
+msgid "The passer demande could not be saved. Please, try again."
+msgstr "La demande n'a pas été enregistré. S'il vous plait, ressayez"
+
+#: ./src/Controller/PasserDemandeController.php:106
+msgid "The passer demande has been deleted."
+msgstr "La demande a été supprimé"
+
+#: ./src/Controller/PasserDemandeController.php:108
+msgid "The passer demande could not be deleted. Please, try again."
+msgstr "La demande n'a pas été supprimé. S'il vous plait, ressayez"
+
+#: ./src/Controller/PersonnelController.php:55
+#: ./src/Controller/PersonnelController.php:81
+msgid "The personnel has been saved."
+msgstr "Le personnel a été enregistré"
+
+#: ./src/Controller/PersonnelController.php:59
+#: ./src/Controller/PersonnelController.php:85
+msgid "The personnel could not be saved. Please, try again."
+msgstr "Le personnel n'a pas été enregistré. S'il vous plait, ressayez"
+
+#: ./src/Controller/PersonnelController.php:104
+msgid "The personnel has been deleted."
+msgstr "Le personnel a été supprimé"
+
+#: ./src/Controller/PersonnelController.php:106
+msgid "The personnel could not be deleted. Please, try again."
+msgstr "Le personnel n'a pas été supprimé. S'il vous plait, ressayez"
+
+#: ./src/Controller/StageController.php:55
+#: ./src/Controller/StageController.php:81
+msgid "The stage has been saved."
+msgstr "Le stage a été enregistré"
+
+#: ./src/Controller/StageController.php:59
+#: ./src/Controller/StageController.php:85
+msgid "The stage could not be saved. Please, try again."
+msgstr "Le stage n'a pas été enregistré. S'il vous plait, ressayez"
+
+#: ./src/Controller/StageController.php:104
+msgid "The stage has been deleted."
+msgstr "Le stage a été supprimé"
+
+#: ./src/Controller/StageController.php:106
+msgid "The stage could not be deleted. Please, try again."
+msgstr "Le stage n'a pas été supprimé. S'il vous plait, ressayez"
+
+#: ./src/Controller/UsersController.php:54
+#: ./src/Controller/UsersController.php:80
+#: ./src/Controller/UsersController.php:165
+msgid "The user has been saved."
+msgstr "L'utilisateur a été enregistré"
+
+#: ./src/Controller/UsersController.php:58
+#: ./src/Controller/UsersController.php:84
+#: ./src/Controller/UsersController.php:167
+msgid "The user could not be saved. Please, try again."
+msgstr "L'utilisateur n'a pas été enregistré. S'il vous plait, ressayez"
+
+#: ./src/Controller/UsersController.php:103
+msgid "The user has been deleted."
+msgstr "L'utilisateur a été supprimé"
+
+#: ./src/Controller/UsersController.php:105
+msgid "The user could not be deleted. Please, try again."
+msgstr "L'utilisateur n'a pas été supprimé. S'il vous plait, ressayez"
+
+#: ./src/Controller/UsersController.php:138
+msgid "Invalid email or password"
+msgstr "Email ou mot de passe incorrect"
+
+#: ./templates/layout/error.php:38
+msgid "Back"
+msgstr "Retour"
+
+msgid "Annuler"
+msgstr "Annuler"

@@ -1,0 +1,91 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-18 09:41+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./templates/Departement/add.php:10
+#: ./templates/Departement/edit.php:10
+#: ./templates/Departement/index.php:9
+#: ./templates/Departement/view.php:10
+msgid "Departement"
+msgstr "Département"
+
+#: ./templates/Departement/add.php:11
+#: ./templates/Departement/edit.php:11
+#: ./templates/Departement/view.php:11
+msgid "List Departement"
+msgstr "Liste des départements"
+
+#: ./templates/Departement/add.php:18
+msgid "Add Departement"
+msgstr "Ajout de département"
+
+#: ./templates/Departement/add.php:20
+#: ./templates/Departement/edit.php:20
+#: ./templates/Departement/index.php:15
+#: ./templates/Departement/view.php:23
+msgid "Nom"
+msgstr ""
+
+#: ./templates/Departement/add.php:21
+#: ./templates/Departement/edit.php:21
+#: ./templates/Departement/index.php:16
+#: ./templates/Departement/view.php:27
+msgid "Description"
+msgstr ""
+
+#: ./templates/Departement/add.php:22
+#: ./templates/Departement/edit.php:22
+#: ./templates/Departement/view.php:31
+msgid "Logo"
+msgstr ""
+
+#: ./templates/Departement/add.php:25
+#: ./templates/Departement/edit.php:25
+msgid "Submit"
+msgstr "Valider"
+
+#: ./templates/Departement/edit.php:18
+msgid "Edit Departement"
+msgstr "Edition de département"
+
+#: ./templates/Departement/index.php:8
+msgid "New Departement"
+msgstr "Nouveau département"
+
+#: ./templates/Departement/index.php:14
+#: ./templates/Departement/view.php:19
+msgid "ID"
+msgstr ""
+
+#: ./templates/Departement/index.php:17
+msgid "Actions"
+msgstr ""
+
+#: ./templates/Departement/index.php:27
+msgid "View"
+msgstr "Voir"
+
+#: ./templates/Departement/index.php:28
+msgid "Edit"
+msgstr "Editer"
+
+#: ./templates/Departement/index.php:29
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ./templates/Departement/index.php:29
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Voulez-vous supprimer # {0}?"
+

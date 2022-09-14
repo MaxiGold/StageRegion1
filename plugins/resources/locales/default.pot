@@ -1,0 +1,199 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-19 15:50+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./src/Controller/DepartementController.php:57
+#: ./src/Controller/DepartementController.php:82
+msgid "The departement has been saved."
+msgstr ""
+
+#: ./src/Controller/DepartementController.php:61
+#: ./src/Controller/DepartementController.php:86
+msgid "The departement could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/DepartementController.php:104
+msgid "The departement has been deleted."
+msgstr ""
+
+#: ./src/Controller/DepartementController.php:106
+msgid "The departement could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/EtudiantController.php:55
+#: ./src/Controller/EtudiantController.php:82
+msgid "The etudiant has been saved."
+msgstr ""
+
+#: ./src/Controller/EtudiantController.php:59
+#: ./src/Controller/EtudiantController.php:86
+msgid "The etudiant could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/EtudiantController.php:106
+msgid "The etudiant has been deleted."
+msgstr ""
+
+#: ./src/Controller/EtudiantController.php:108
+msgid "The etudiant could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/PasserDemandeController.php:55
+#: ./src/Controller/PasserDemandeController.php:82
+msgid "The passer demande has been saved."
+msgstr ""
+
+#: ./src/Controller/PasserDemandeController.php:59
+#: ./src/Controller/PasserDemandeController.php:86
+msgid "The passer demande could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/PasserDemandeController.php:106
+msgid "The passer demande has been deleted."
+msgstr ""
+
+#: ./src/Controller/PasserDemandeController.php:108
+msgid "The passer demande could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/PersonnelController.php:55
+#: ./src/Controller/PersonnelController.php:81
+msgid "The personnel has been saved."
+msgstr ""
+
+#: ./src/Controller/PersonnelController.php:59
+#: ./src/Controller/PersonnelController.php:85
+msgid "The personnel could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/PersonnelController.php:104
+msgid "The personnel has been deleted."
+msgstr ""
+
+#: ./src/Controller/PersonnelController.php:106
+msgid "The personnel could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/StageController.php:55
+#: ./src/Controller/StageController.php:81
+msgid "The stage has been saved."
+msgstr ""
+
+#: ./src/Controller/StageController.php:59
+#: ./src/Controller/StageController.php:85
+msgid "The stage could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/StageController.php:104
+msgid "The stage has been deleted."
+msgstr ""
+
+#: ./src/Controller/StageController.php:106
+msgid "The stage could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/UsersController - Copie.php:54
+#: ./src/Controller/UsersController - Copie.php:80
+#: ./src/Controller/UsersController - Copie.php:182
+#: ./src/Controller/UsersController.php:57
+#: ./src/Controller/UsersController.php:83
+#: ./src/Controller/UsersController.php:186
+msgid "The user has been saved."
+msgstr ""
+
+#: ./src/Controller/UsersController - Copie.php:58
+#: ./src/Controller/UsersController - Copie.php:84
+#: ./src/Controller/UsersController - Copie.php:185
+#: ./src/Controller/UsersController.php:61
+#: ./src/Controller/UsersController.php:87
+#: ./src/Controller/UsersController.php:189
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: ./src/Controller/UsersController - Copie.php:103
+#: ./src/Controller/UsersController.php:106
+msgid "The user has been deleted."
+msgstr ""
+
+#: ./src/Controller/UsersController - Copie.php:105
+#: ./src/Controller/UsersController.php:108
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: ./src/Controller/UsersController - Copie.php:140
+#: ./src/Controller/UsersController.php:144
+msgid "Invalid email or password"
+msgstr ""
+
+#: ./templates/Users/view.php:10
+msgid "Actions"
+msgstr ""
+
+#: ./templates/Users/view.php:11
+msgid "Edit User"
+msgstr ""
+
+#: ./templates/Users/view.php:12
+msgid "Delete User"
+msgstr ""
+
+#: ./templates/Users/view.php:12
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: ./templates/Users/view.php:13
+msgid "List Users"
+msgstr ""
+
+#: ./templates/Users/view.php:14
+msgid "New User"
+msgstr ""
+
+#: ./templates/Users/view.php:22
+msgid "Personnel"
+msgstr ""
+
+#: ./templates/Users/view.php:26
+msgid "Name"
+msgstr ""
+
+#: ./templates/Users/view.php:30
+msgid "Email"
+msgstr ""
+
+#: ./templates/Users/view.php:34
+msgid "Role"
+msgstr ""
+
+#: ./templates/Users/view.php:38
+msgid "Photo"
+msgstr ""
+
+#: ./templates/Users/view.php:42
+msgid "Id"
+msgstr ""
+
+#: ./templates/Users/view.php:46
+msgid "Created"
+msgstr ""
+
+#: ./templates/Users/view.php:50
+msgid "Modified"
+msgstr ""
+
+#: ./templates/layout/error.php:38
+msgid "Back"
+msgstr ""
+

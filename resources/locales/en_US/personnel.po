@@ -1,0 +1,132 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-18 09:41+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./templates/Personnel/add.php:11
+#: ./templates/Personnel/edit.php:11
+#: ./templates/Personnel/index.php:9
+#: ./templates/Personnel/view.php:10
+msgid "Personnel"
+msgstr "Staff"
+
+#: ./templates/Personnel/add.php:12
+#: ./templates/Personnel/edit.php:12
+#: ./templates/Personnel/view.php:11
+msgid "List Personnel"
+msgstr "List staff"
+
+#: ./templates/Personnel/add.php:19
+msgid "Add Personnel"
+msgstr "Add staff"
+
+#: ./templates/Personnel/add.php:21
+#: ./templates/Personnel/edit.php:21
+#: ./templates/Personnel/index.php:15
+msgid "Département"
+msgstr "Department"
+
+#: ./templates/Personnel/add.php:22
+#: ./templates/Personnel/edit.php:22
+#: ./templates/Personnel/index.php:16
+#: ./templates/Personnel/view.php:23
+msgid "Nom"
+msgstr "Name"
+
+#: ./templates/Personnel/add.php:23
+#: ./templates/Personnel/edit.php:23
+#: ./templates/Personnel/index.php:17
+#: ./templates/Personnel/view.php:27
+msgid "Prénom"
+msgstr "Forename"
+
+#: ./templates/Personnel/add.php:24
+#: ./templates/Personnel/edit.php:24
+#: ./templates/Personnel/index.php:18
+#: ./templates/Personnel/view.php:31
+msgid "Téléphone"
+msgstr "Telephone"
+
+#: ./templates/Personnel/add.php:25
+#: ./templates/Personnel/edit.php:25
+#: ./templates/Personnel/view.php:35
+msgid "Adresse"
+msgstr "Address"
+
+#: ./templates/Personnel/add.php:26
+#: ./templates/Personnel/edit.php:26
+#: ./templates/Personnel/index.php:19
+#: ./templates/Personnel/view.php:39
+msgid "Email"
+msgstr ""
+
+#: ./templates/Personnel/add.php:27
+#: ./templates/Personnel/edit.php:27
+#: ./templates/Personnel/view.php:47
+msgid "Est Encadrant"
+msgstr "Is instructor"
+
+#: ./templates/Personnel/add.php:30
+#: ./templates/Personnel/edit.php:30
+msgid "Submit"
+msgstr ""
+
+#: ./templates/Personnel/edit.php:19
+msgid "Edit Personnel"
+msgstr "Edit staff"
+
+#: ./templates/Personnel/index.php:8
+msgid "Nouveau Personnel"
+msgstr "New staff"
+
+#: ./templates/Personnel/index.php:14
+msgid "ID"
+msgstr ""
+
+#: ./templates/Personnel/index.php:20
+msgid "Actions"
+msgstr ""
+
+#: ./templates/Personnel/index.php:33
+msgid "View"
+msgstr ""
+
+#: ./templates/Personnel/index.php:34
+msgid "Edit"
+msgstr ""
+
+#: ./templates/Personnel/index.php:35
+msgid "Delete"
+msgstr ""
+
+#: ./templates/Personnel/index.php:35
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: ./templates/Personnel/view.php:19
+msgid "Departement"
+msgstr ""
+
+#: ./templates/Personnel/view.php:43
+msgid "Id"
+msgstr ""
+
+#: ./templates/Personnel/view.php:48
+msgid "Yes"
+msgstr ""
+
+#: ./templates/Personnel/view.php:48
+msgid "No"
+msgstr ""
+

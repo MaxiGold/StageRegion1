@@ -1,0 +1,76 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-08-18 09:41+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ./templates/layout/default.php:50
+msgid "Accueil"
+msgstr "Home"
+
+#: ./templates/layout/default.php:53
+msgid "A Propos"
+msgstr "About"
+
+#: ./templates/layout/default.php:58
+msgid "Ressources Humaines"
+msgstr "Humane Resources"
+
+#: ./templates/layout/default.php:61
+msgid "Statistiques"
+msgstr "Statistics"
+
+#: ./templates/layout/default.php:66
+msgid "Profil"
+msgstr "Profile"
+
+#: ./templates/layout/default.php:67
+msgid "Deconnexion"
+msgstr "Sign Out"
+
+#: ./templates/layout/default.php:77
+msgid "Utilisateur"
+msgstr "Users"
+
+#: ./templates/layout/default.php:78
+msgid "Départements"
+msgstr "Department"
+
+#: ./templates/layout/default.php:79
+msgid "Personnels"
+msgstr "Staff"
+
+#: ./templates/layout/default.php:80
+msgid "Stagiaires"
+msgstr "Interns"
+
+#: ./templates/layout/default.php:81
+msgid "Demandes"
+msgstr "Request"
+
+#: ./templates/layout/default.php:82
+msgid "Stages"
+msgstr "Internship"
+
+#: ./templates/layout/default.php:124
+msgid "Modifier Profil"
+msgstr "Manage Profile"
+
+#: ./templates/layout/default.php:134
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ./templates/layout/default.php:138
+msgid "La langue utilisé est le Françcais"
+msgstr "The language used is English"
+

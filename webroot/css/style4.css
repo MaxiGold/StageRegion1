@@ -1,0 +1,94 @@
+#container1{
+	height: 520px;
+	display: flex;
+	flex-direction: row;
+}
+#content1{
+	
+}
+#content2{
+	
+}
+#scontent1{
+	height: 120px;
+	display: flex;
+	justify-content: center;
+}
+#scontent2{
+	height: 40px;
+	width: 150px;
+	display: flex;
+	justify-content: flex-end;
+}
+#scontent3{
+	height: 60px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	font-family: tahoma;
+}
+#scontent4{
+	height: 270px;
+}
+#scontent5{
+	height: 40px;
+}
+#scontent6{
+	height: 60px;
+}
+#scontent7{
+	height: 40px;
+}
+#scontent8{
+	height: 60px;
+}
+#scontent9{
+	height: 40px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+#scontent10{
+	height: 70px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+}
+#scontent11{
+	height: 40px;
+}
+#scontent12{
+	height: 60px;
+	display: flex;
+	justify-content: space-between;
+}
+#scontent13{
+	height: 80px;
+	width: 300px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+#profil{
+	width: 150px; height: 150px;
+}
+#sscontent1{
+	height: 100px;
+	display: flex;
+	flex-direction: column;
+}
+#sscontent2{
+	height: 170px;
+}
+#profil{
+	font-family: tahoma;
+}
+p{
+	line-height: 0.8;
+}
+#ecole{
+	line-height: 0.5;
+}
+#link{
+	width: 40px; height: 40px;
+}
